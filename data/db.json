@@ -1,0 +1,35 @@
+{
+      "blogs": [
+        {
+          "tittle": " Welcome to my website ",
+          "author": "Mario",
+          "body": " Hello everybody my name is ola am a software engineer i love to pragram with friends am a salafi and i pray to always be salafi for ever, me kunyyah is abu Mutmahinah ",
+          "id": 1
+        },
+        {
+          "tittle": " Be a wed developer in six months ",
+          "author": "John",
+          "body": " Hello everybody my name is ola am a software engineer i love to pragram with friends am a salafi and i pray to always be salafi for ever, me kunyyah is abu Mutmahinah ",
+          "id": 2
+        },
+        {
+          "tittle": " No hurry in life ",
+          "author": "Ajoke",
+          "body": " Hello everybody my name is ola am a software engineer i love to pragram with friends am a salafi and i pray to always be salafi for ever, me kunyyah is abu Mutmahinah ",
+          "id": 3
+        },
+        {
+          "tittle": " Follow the sunnah ",
+          "author": "Sumayyah",
+          "body": " Hello everybody my name is ola am a software engineer i love to pragram with friends am a salafi and i pray to always be salafi for ever, me kunyyah is abu Mutmahinah ",
+          "id": 4
+        },
+        {
+          "tittle": " Be a sincere muslim  ",
+          "author": "Mujahid",
+          "body": " Hello everybody my name is ola am a software engineer i love to pragram with friends am a salafi and i pray to always be salafi for ever, me kunyyah is abu Mutmahinah ",
+          "id": 5
+        }
+      ]
+      
+}
