@@ -9,7 +9,7 @@ const Portfolio = () => {
       <div className="img-container ">
         {portfolioImg.map((item) => {
           return (
-            <a href="/">
+            <a href={item.link}>
               <img src={item.img} key={item.id} alt="" />{" "}
             </a>
           );
